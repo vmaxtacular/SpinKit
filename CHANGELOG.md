@@ -1,3 +1,12 @@
+# 1.2.5
+
+* Fixed: Add folding cube spinner (11) to combined CSS file
+
+# 1.2.4
+
+* Fixed: Borked gulp script (#106)
+* Fixed: Moved changes made in CSS, to SCSS
+
 # 1.2.3
 
 * Fixed: More exact (33% -> 33.33%) cube dimensions for cube grid spinner
